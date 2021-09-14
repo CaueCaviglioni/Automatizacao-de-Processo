@@ -1,24 +1,24 @@
 produto,preco_reais,preco_dolar,preco_euro
-lápis,"2,00","0,00","0,00"
-borracha,"1,50","0,00","0,00"
-estojo pequeno,"10,50","0,00","0,00"
-estojo grande,"17,50","0,00","0,00"
-caneta,"3,20","0,00","0,00"
-pacote de folha A4,"10,00","0,00","0,00"
-caderno,"7,99","0,00","0,00"
-pasta ,"12,20","0,00","0,00"
-caderneta,"15,00","0,00","0,00"
-apontador,"6,50","0,00","0,00"
-lapiseira,"7,00","0,00","0,00"
-grafite,"0,70","0,00","0,00"
-marca texto,"8,00","0,00","0,00"
-corretivo,"9,50","0,00","0,00"
-quadro branco,"70,00","0,00","0,00"
-apagador,"20,00","0,00","0,00"
-caneta quadro branco,"15,00","0,00","0,00"
-mochila,"75,00","0,00","0,00"
-porta lápis,"20,00","0,00","0,00"
-régua,"7,00","0,00","0,00"
-compasso,"25,00","0,00","0,00"
-par de esquadros,"30,00","0,00","0,00"
-calculadora,"80,00","0,00","0,00"
+lápis,2.00,0.00,0.00
+borracha,1.50,0.00,0.00
+estojo pequeno,8.5,0.00,0.00
+estojo grande,15.5,0.00,0.00
+caneta,3.9,0.00,0.00
+pacote de folha A4,20.00,0.00,0.00
+caderno,17.00,0.00,0.00
+pasta ,35.00,0.00,0.00
+caderneta,15.00,0.00,0.00
+apontador,2.90,0.00,0.00
+lapiseira,4.00,0.00,0.00
+grafite,0.60,0.00,0.00
+marca texto,5.00,0.00,0.00
+corretivo,8.50,0.00,0.00
+quadro branco,70.00,0.00,0.00
+apagador,20.00,0.00,0.00
+caneta quadro branco,15.00,0.00,0.00
+mochila,80.00,0.00,0.00
+porta lápis,20.00,0.00,0.00
+régua,7.50,0.00,0.00
+compasso,12.00,0.00,0.00
+par de esquadros,16.00,0.00,0.00
+calculadora,120.00,0.00,0.00
